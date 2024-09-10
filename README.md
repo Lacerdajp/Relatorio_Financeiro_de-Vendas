@@ -14,7 +14,7 @@ Em cada 1 dessas pastas estarão disponíveis dois arquivos:
 - Projeto em Power BI (totalmente otimizado para celulares e PCs)
 - Projeto em PowerPoint.
 
-## Análises Desenvolvidas para o Relatorio 1📈
+## Análises Desenvolvidas para o Relatório 1📈
 
 Foram criadas 5 páginas, além do Índice. Vamos desenvolver um raciocínio em torno de cada uma delas:
 
@@ -64,4 +64,26 @@ Também observamos claramente a diferença na venda de cada produto em relação
 
 Na última página, podemos observar claramente que o segmento governamental é responsável pela maior parte dos lucros da empresa, e que os Estados Unidos são o maior vendedor de produtos, ficando quase 20% à frente do México.
 
-### Análises desenvolvidas para o Relatorio 2
+## Análises desenvolvidas para o Relaório 2📉
+
+Esse é um relatório mais simples de informações, porém com insigths de estilos e views mais aplicaveis com uma atratividade maior.Foram divididas em duas páginas com uma sendo focado nas vendas e outra no Lucro.
+
+### Relatório de Vendas
+
+Nesta Página foram avaliadas as vendas. Foi dado a libierdade de escolher a data que queremos avaliar para análisar as vendas. É possivel alternar o estilo do gráfico os gráficos de Total vendas por segmento e total vendas por país.
+
+Em um primeiro momento podemos avaliar claramente que as vendas tem um crescimento adequado na partir de agosto tendo mais vendas nos 3 meses finais. Pode-se ter insights valiosos caso queiramos fazer estratégia de marketing em um futuro, para esses meses.
+
+Podemos observar que as vendas por país são relativamente proximas, se distanciando dos demais apenas México, tendo uma desvantagem dos demais de 3 a 5 milhões de vendas.
+
+É possivel observar que o principal produto com diferença de incriveis 13 milhões de diferença do segundo maior produto é o Paseo. Observa-se também que a maior quantidade de vendas vem do segmento Govenramental e das grandes Empresas.
+
+### Relatório de Lucro
+
+Nesta página o objetivo é analisarmos os lucros , temos um filtro para selecionar o ano da avaliação.
+
+Em primeiro momento podemos ver que o maior Lucro veio em 2014 em relação ao 2013 pelo fato de contabilizar alguns meses a mais em 2014, porém não suficiente para não perceber a diferença de 10 milhoes de reais de lucro superior.Observando também que os Lucros dos países estão próximos.
+
+Vemos que Paseo tem um Lucro maior ente os produtos, e que o segmento Governamental Supera os demai, deixando claro de que apesar de ter muitas vendas em Grandes Empresas, não rende tanto lucro assim, para a nossa empresa.
+
+Vemos por fim que os Lucros dos semestres foram positivos, tendo o seu ápice ao fim do ano, no último trimestre.
