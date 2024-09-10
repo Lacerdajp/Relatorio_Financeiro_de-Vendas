@@ -4,9 +4,17 @@ Este projeto consiste em realizar uma análise financeira de vendas, utilizando 
 
 ## Arquivos 📁
 
-Estão disponíveis dois arquivos: um com o projeto em Power BI (totalmente otimizado para celulares e PCs) e o mesmo projeto em PowerPoint.
+Foram realizado duas análises diferentes em momentos de tempo diferentes. Foram divididos em:
 
-## Análises Desenvolvidas 📈
+- Relatorio 1
+- Relatorio 2
+
+Em cada 1 dessas pastas estarão disponíveis dois arquivos:
+
+- Projeto em Power BI (totalmente otimizado para celulares e PCs)
+- Projeto em PowerPoint.
+
+## Análises Desenvolvidas para o Relatorio 1📈
 
 Foram criadas 5 páginas, além do Índice. Vamos desenvolver um raciocínio em torno de cada uma delas:
 
@@ -55,3 +63,5 @@ Também observamos claramente a diferença na venda de cada produto em relação
 ### Relatório de Vendas - Mapas e Análises
 
 Na última página, podemos observar claramente que o segmento governamental é responsável pela maior parte dos lucros da empresa, e que os Estados Unidos são o maior vendedor de produtos, ficando quase 20% à frente do México.
+
+### Análises desenvolvidas para o Relatorio 2
