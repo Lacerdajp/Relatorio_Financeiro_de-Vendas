@@ -8,6 +8,7 @@ Foram realizado duas análises diferentes em momentos de tempo diferentes. Foram
 
 - Relatorio 1
 - Relatorio 2
+- Relatorio 3
 
 Em cada 1 dessas pastas estarão disponíveis dois arquivos:
 
@@ -87,3 +88,24 @@ Em primeiro momento podemos ver que o maior Lucro veio em 2014 em relação ao 2
 Vemos que Paseo tem um Lucro maior ente os produtos, e que o segmento Governamental Supera os demai, deixando claro de que apesar de ter muitas vendas em Grandes Empresas, não rende tanto lucro assim, para a nossa empresa.
 
 Vemos por fim que os Lucros dos semestres foram positivos, tendo o seu ápice ao fim do ano, no último trimestre.
+
+## Análises Desenvolvidas para o relatorio 3
+
+Esse relatorio utiliza a mesma análise do prjeto 2, a diferença e que modificamos as tabela de origem **FINACIALS**, paraum **STAR SCHEMA**.
+Foram desenvolvidas as seguintes tabelas:
+
+```
+D_Produtos (ID_produto, Produto, Média de Unidades Vendidas, Médias do valor de vendas, Mediana do valor de vendas, Valor máximo de Venda, Valor mínimo de Venda)
+
+D_Produtos_Detalhes(ID_produtos, Discount Band, Sale Price, Units Sold, Manufactoring Price)
+
+D_Descontos (ID_produto, Discount, Discount Band)
+
+D_Detalhes (*)
+
+D_Calendário – Criada por DAX com calendar()
+
+F_Vendas (SK_ID , ID_Produto, Produto, Units Sold, Sales Price, Discount Band, Segment, Country, Salers, Profit, Date (campos))
+```
+
+Um png do esquema está associado na pasta.
