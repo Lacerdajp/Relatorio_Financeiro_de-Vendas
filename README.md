@@ -118,6 +118,6 @@ Foi utilizado o Relatorio 2 como base, foi melhorada a visualização pensando n
 
 Foi utilizado o Relatorio 2 como base, foi melhorada a visualização pensando no usuario, ajustando algumas coisas. e finazliazar um Dashboard mais completo.
 
-## Análises Desenvolvidas para o relatorio 5
+## Análises Desenvolvidas para o relatorio 6
 
 Foi utilizado uma troca de campos como parametro na ultima página, podendo assim trocar o Gráfico.
