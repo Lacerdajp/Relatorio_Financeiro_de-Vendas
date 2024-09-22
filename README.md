@@ -9,6 +9,10 @@ Foram realizado duas análises diferentes em momentos de tempo diferentes. Foram
 - Relatorio 1
 - Relatorio 2
 - Relatorio 3
+- Relatorio 4
+- Relatorio 5
+- Relatorio 6
+- Modelagem
 
 Em cada 1 dessas pastas estarão disponíveis dois arquivos:
 
@@ -121,3 +125,7 @@ Foi utilizado o Relatorio 2 como base, foi melhorada a visualização pensando n
 ## Análises Desenvolvidas para o relatorio 6
 
 Foi utilizado uma troca de campos como parametro na ultima página, podendo assim trocar o Gráfico.
+
+## Modelagem
+
+Nada mais é que um desafio de passar um modelo relacional para Star schema , com outrro dataset, um desafio feito pela DIO
