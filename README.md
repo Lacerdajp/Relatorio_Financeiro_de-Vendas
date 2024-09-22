@@ -109,3 +109,15 @@ F_Vendas (SK_ID , ID_Produto, Produto, Units Sold, Sales Price, Discount Band, S
 ```
 
 Um png do esquema está associado na pasta.
+
+## Análises Desenvolvidas para o relatorio 4
+
+Foi utilizado o Relatorio 2 como base, foi melhorada a visualização pensando no usuario, ajustando algumas coisas.
+
+## Análises Desenvolvidas para o relatorio 5
+
+Foi utilizado o Relatorio 2 como base, foi melhorada a visualização pensando no usuario, ajustando algumas coisas. e finazliazar um Dashboard mais completo.
+
+## Análises Desenvolvidas para o relatorio 5
+
+Foi utilizado uma troca de campos como parametro na ultima página, podendo assim trocar o Gráfico.
